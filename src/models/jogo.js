@@ -16,7 +16,7 @@ const schema = new Schema({
     },
    encerrado:{
        type: Boolean,
-       
+       default: false
    },
    golsTime1: {
        type: Integer,
