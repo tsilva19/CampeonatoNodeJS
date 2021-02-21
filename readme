@@ -1,0 +1,10 @@
+# API CAMPEONATO SIMULADOR EM NODEJS
+
+## ESTE PROJETO TEM o objetivo de cadastrar times , listar jogos, e exibir a classificação de jogos
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+ - [NODE.JS]
+ - [MongoDB]
+
